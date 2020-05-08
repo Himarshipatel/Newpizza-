@@ -1,0 +1,151 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.material-icons {
+  font-size: 2.4em;
+  cursor: pointer;
+}
+.card {
+  width: 300px;
+}
+.card .card-image .card-title {
+  color: black;
+  font-weight: 400;
+}
+.cart {
+  margin-top: 40px;
+}
+.collection .collection-item {
+  display: flex;
+}
+.collection-item.avatar .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ee6e73;
+  display: block;
+  margin-bottom: 20px;
+}
+.collection .collection-item img {
+  width: 150px;
+  margin-right: 25px;
+}
+.item-desc {
+  align-self: center;
+}
+/* ---baner */
+
+.banner1 {
+  height: 700px;
+  margin-top: -19px;
+  font-size: 120px;
+  text-align: center;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+.banner2 {
+  background-color: red;
+  height: 700px;
+  margin-top: -19px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.subtitle {
+  font-size: 20px;
+  color: lightgray;
+}
+.moredeal {
+  height: 50px;
+  width: 150px;
+  border-radius: 25px;
+}
+.logo {
+}
+.navigation {
+  border: 1px solid black;
+}
+.menu {
+  padding-left: 10px;
+  margin-top: 30px;
+}
+.content {
+  text-align: center;
+  font-size: 100px;
+}
+.cart {
+  text-align: right;
+}
+/* .cartt {
+  justify-content: right;
+} */
+.bannerimg {
+  height: 270px;
+  width: 100%;
+  margin-top: 140px;
+}
+.menutitle {
+  color: red;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+}
+.menusubtitle {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 45px;
+}
+.Addtocart {
+  width: 100%;
+}
+.offer {
+  color: white;
+  text-align: center;
+}
+.cardd {
+  margin-left: 15px;
+}
+/* --form-- */
+.form {
+  margin-top: 30px;
+  border: 1px solid gray;
+}
+.heading {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.confirmorder {
+  color: white;
+  background-color: orange;
+  border-radius: 20px;
+  width: 150px;
+  height: 50px;
+  font-size: 17px;
+  font-weight: bold;
+}
+.title {
+  text-align: left;
+}
+/* --popover-- */
+.popoverr {
+  height: 300px;
+  width: 400px;
+  overflow-y: scroll;
+}
+.display {
+  width: 220px;
+}
+.popimage {
+  width: 151px;
+  height: 150px;
+}
+.cartbut {
+  width: 50px;
+  height: 50px;
+}
+.carticon {
+  font-size: 25px;
+}
