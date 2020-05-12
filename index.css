@@ -103,7 +103,8 @@
   text-align: center;
 }
 .cardd {
-  margin-left: 15px;
+  margin-left: 80px;
+  height: 400px;
 }
 /* --form-- */
 .form {
@@ -148,4 +149,26 @@
 }
 .carticon {
   font-size: 25px;
+}
+.Imagecol {
+  text-align: center;
+  margin-top: 20px;
+}
+.Title {
+  margin-top: 150px;
+}
+.natural {
+  text-align: center;
+  color: red;
+  font-family: cursive;
+}
+.menuuu {
+  text-align: center;
+}
+
+.maindiv {
+  border: 1px solid lightgray;
+}
+.Imagedes {
+  margin-top: 10px;
 }
